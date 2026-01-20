@@ -1,0 +1,20 @@
+## Problem Statement
+
+   The objective of this task is to load and explore a structured dataset using Pandas, perform essential data inspection and cleaning operations, and apply NumPy for numerical 
+analysis. Using the Student Performance dataset, the task aims to understand dataset structure, ensure data quality, and extract basic statistical insights from numerical 
+features.
+
+
+## Dataset Description
+
+    The Student Performance dataset contains academic and demographic information of students and is commonly used to analyze factors influencing educational outcomes. 
+The dataset includes categorical features such as gender, parental education level, lunch type, and test preparation course, along with numerical features representing scores 
+in mathematics, reading, and writing. The target of analysis is not predictive in this task but exploratory, focusing on understanding score distributions and overall dataset 
+quality. The dataset is structured, well-labeled, and suitable for foundational data handling and statistical analysis.
+
+
+## Conclusion
+
+    In this task, we successfully loaded and explored the Student Performance dataset using Pandas. The dataset was inspected for structure, data types, missing values, and 
+duplicates. No significant data quality issues were found. NumPy was used to perform statistical analysis on students’ math scores, providing insights into average performance, 
+score distribution, and variability. This task strengthened foundational skills in data handling, cleaning, and numerical analysis.
